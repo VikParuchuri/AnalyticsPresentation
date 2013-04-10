@@ -98,9 +98,12 @@ Instructor Dash |  Instructor Grades
 #### djanalytics
 * Defines decorators for views, queries, events, and periodic tasks.
 * Sets up an API based on the decorators.
-* Abstract filesystem and database away from the decorated modules.
+* Abstracts filesystem and database away from the decorated modules.
 * Allow for events to be streamed in.
 * Is an installable python package.
+
+---
+## djanalytics sample modules
 
 ---
 ## Future of Analytics
@@ -113,6 +116,12 @@ Instructor Dash |  Instructor Grades
 ## edxanalytics Diagram
 
 <img src="assets/img/system_structure.png" height="500px" width="600px"/>
+
+---
+## edxanalytics sample modules
+
+---
+## KPI Demo
 
 ---
 ## Questions?
